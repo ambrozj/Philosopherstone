@@ -6,17 +6,6 @@ Inspired from alchemy process .Prima materia, materia prima or first matter, is 
 
 ================================================================================================
 
-Nigredo - Foundation for webserver and database
+FreeBSD window manager
 
-Albedo - Abstraction on top of Nigredo 
-
-Citrinitas - Light weight Webserver
-
-Rubedo - Key Value database
-
-================================================================================================
-
-1. Key Value Database - 
-2. A Light weight web server  - 
-
-in proto stage
+Proto stage 
